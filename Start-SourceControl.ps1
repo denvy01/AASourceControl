@@ -1,1 +1,2 @@
-Write-Output 'git test'
+Write-Output 'git test1'
+Write-Output 'git test2'
